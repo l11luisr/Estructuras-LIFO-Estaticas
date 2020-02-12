@@ -1,23 +1,26 @@
 
-											UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
-										  FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
-											  ALGORITMOS Y ESTRUCTURA DE DATOS
-														   2020-1
-					                                     PRÁCTICA #2
+					  UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
+				        FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
+			                     ALGORITMOS Y ESTRUCTURA DE DATOS
+		                                         2020-1
+					               PRÁCTICA #2
+
 Alumnos:
+
 	* Cota Robledo Benjamín [1225836]
+
 	* Rodriguez Muñoz José Luis [1260368]
 
 Práctica: Estructuras LIFO Estáticas
+
 Fecha: 02/11/2020
-GitHub: https://github.com/l11luisr/Estructuras-LIFO-Estaticas
 
 Competencia: Aplicar eficientemente el principio LIFO para generar soluciones creativas a problemas de ingeniería.
 
 Actividad:
 	Se desea implementar dos pilas, y se dispone de un solo vector de N componentes.
 	Implemente ambas pilas de manera que se pueda aprovechar al máximo el vector.
-	Las operaciones de pila tendrán que llevar un parámetro adicional que indique sobre qué pila se quiere realizar la operación (pila 1 ó pila 2).
+	Las operaciones de pila tendrán que llevar un parámetro adicional que indique sobre qué pila se quiere realizar la operación 		(pila 1 ó pila 2).
 
 Consideraciones:
 
